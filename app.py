@@ -4,7 +4,7 @@ from config import GEMINI_API_KEY  # Your original API key import
 
 st.set_page_config(page_title="AI Crime Assistant", page_icon="🕵️", layout="centered")
 
-st.title("🕵️ AI Crime Assistance Bot (Enhanced)")
+st.title("🕵️ AI Crime Assistance Bot ")
 st.caption("Educational demo. Not legal advice.")
 
 # Contextual crime-solving scenarios for better AI guide
